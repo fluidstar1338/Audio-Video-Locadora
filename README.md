@@ -44,6 +44,3 @@ Este é um projeto **acadêmico**, desenvolvido com o propósito de **consolidar
 A aplicação simula as funcionalidades essenciais de uma **locadora de filmes tradicional** e demonstra como é possível construir **soluções práticas e funcionais** utilizando ferramentas acessíveis e amplamente utilizadas no mercado.
 
 ---
-
-## 📁 Estrutura Básica
-
