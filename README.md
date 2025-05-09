@@ -1,31 +1,49 @@
-🎬 Sistema de Gestão para Locadora de Filmes - Excel + VBA
-Este projeto foi desenvolvido como parte dos meus estudos no curso de Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul, com o objetivo de colocar em prática os conhecimentos adquiridos em automação de planilhas, programação em VBA e estruturação de dados. O sistema simula o funcionamento básico de uma locadora, permitindo realizar cadastros e controlar acessos de forma simples e eficiente, tudo dentro do Excel.
+# 🎬 Sistema de Gestão para Locadora de Filmes - Excel + VBA
 
-🔧 Funcionalidades
-📋 Cadastro de Clientes
-Permite registrar e gerenciar os dados dos clientes, como nome, CPF, e telefone.
+Este projeto foi desenvolvido como parte dos meus estudos no curso de **Análise e Desenvolvimento de Sistemas** na **FATEC São Caetano do Sul**, com o objetivo de colocar em prática os conhecimentos adquiridos em automação de planilhas, programação em **VBA** e estruturação de dados.
 
-🎞️ Cadastro de Filmes
-Armazena informações como título, categoria, disponibilidade e código de identificação.
+O sistema simula o funcionamento básico de uma locadora, permitindo realizar cadastros e controlar acessos de forma simples e eficiente, tudo dentro do **Microsoft Excel**.
 
-🔐 Login com Autenticação
-Tela de login com validação de usuário e senha, garantindo acesso restrito às funcionalidades do sistema.
+---
 
-📊 Interface no Excel com Automação
-Uso de formulários e botões interativos para facilitar a navegação e operação do sistema diretamente nas planilhas.
+## 🔧 Funcionalidades
 
-💡 Tecnologias Utilizadas
-Microsoft Excel
+### 📋 Cadastro de Clientes
+- Registro de dados como **nome, CPF e telefone**.
+- Interface amigável para inserção e edição dos dados.
 
-Estruturação de dados em planilhas
+### 🎞️ Cadastro de Filmes
+- Armazena informações como **título**, **categoria**, **disponibilidade** e **código de identificação**.
+- Controle de estoque básico para gerenciamento de empréstimos e devoluções.
 
-Controles de formulários embutidos
+### 🔐 Login com Autenticação
+- Tela de login com **validação de usuário e senha**.
+- Acesso restrito às funcionalidades do sistema para maior segurança.
 
-VBA (Visual Basic for Applications)
+### 📊 Interface no Excel com Automação
+- Uso de **formulários personalizados**, **botões interativos** e **macros**.
+- Operação intuitiva diretamente nas planilhas, com navegação guiada.
 
-Programação de lógica de login, cadastros e navegação
+---
 
-Manipulação automatizada de células e dados
+## 💡 Tecnologias Utilizadas
 
-🎓 Sobre o Projeto
-Este é um projeto acadêmico, desenvolvido para consolidar o uso de VBA em Excel como ferramenta de automação e prototipagem de sistemas administrativos. Ele simula as funcionalidades essenciais de uma locadora tradicional e demonstra como é possível construir soluções práticas utilizando ferramentas acessíveis e amplamente utilizadas no mercado.
+- **Microsoft Excel**
+  - Estruturação e manipulação de dados em planilhas
+- **VBA (Visual Basic for Applications)**
+  - Programação de lógica de negócio (login, cadastros, navegação)
+  - Criação de formulários e interfaces gráficas
+  - Automatização de processos e tarefas repetitivas
+
+---
+
+## 🎓 Sobre o Projeto
+
+Este é um projeto **acadêmico**, desenvolvido com o propósito de **consolidar o uso de VBA no Excel** como ferramenta de automação e prototipagem de sistemas administrativos.
+
+A aplicação simula as funcionalidades essenciais de uma **locadora de filmes tradicional** e demonstra como é possível construir **soluções práticas e funcionais** utilizando ferramentas acessíveis e amplamente utilizadas no mercado.
+
+---
+
+## 📁 Estrutura Básica
+
